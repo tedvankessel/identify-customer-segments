@@ -17,7 +17,7 @@ The code for this project is fully embodied in the **Identify_Customer_Segments.
 >See below for more details on environment etc. 
 
 ## Datasets
-	The following datasets were provided by Udacity for use in this project and is also in this Github.
+The following datasets were provided by Udacity for use in this project and is also in this Github.
     AZDIAS_Feature_Summary.csv
     Data_Dictionary.md
     Udacity_AZDIAS_Subset.csv
