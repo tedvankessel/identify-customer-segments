@@ -1,6 +1,5 @@
 # Project-Identify Customer Segments
 
-
 ## Introduction 
 
 ### From the course documentaion:
@@ -31,11 +30,11 @@ The code for this project is fully embodied in the **Identify_Customer_Segments.
 	ChatGPT
 	Udacity GPT
 	Google
-https://github.com/Faisal-AlDhuwayhi/Identify-Customer-Segments
-https://github.com/dalalbinhumaid/identify-customer-segments
-https://github.com/wengsengh/Identify-Customer-Segments
-https://github.com/WejdanCS/Identify-customer-segments
-https://github.com/swang13/identify-customer-segments
+	https://github.com/Faisal-AlDhuwayhi/Identify-Customer-Segments
+	https://github.com/dalalbinhumaid/identify-customer-segments
+	https://github.com/wengsengh/Identify-Customer-Segments
+	https://github.com/WejdanCS/Identify-customer-segments
+	https://github.com/swang13/identify-customer-segments
 
 ### Installing
 The jupyter notebook file can be operated with the standard Jupyter Notebook software.
