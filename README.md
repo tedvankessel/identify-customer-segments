@@ -2,7 +2,8 @@
 
 ## Introduction 
 
-### From the course documentaion:
+### From the course documentation:
+In this project, we will work with real-life data provided to us by our Bertelsmann partners AZ Direct and Arvato Finance Solution. The data here concerns a company that performs mail-order sales in Germany. Their main question of interest is to identify facets of the population that are most likely to be purchasers of their products for a mailout campaign. 
 
 ## Code
 The code for this project is fully embodied in the **Identify_Customer_Segments.ipynb** Jupyter Notebook file in this Github repository.
@@ -18,10 +19,11 @@ The code for this project is fully embodied in the **Identify_Customer_Segments.
 
 ## Datasets
 The following datasets were provided by Udacity for use in this project and is also in this Github.
-    AZDIAS_Feature_Summary.csv
-    Data_Dictionary.md
-    Udacity_AZDIAS_Subset.csv
-    Udacity_CUSTOMERS_Subset.csv
+
+>Udacity_AZDIAS_Subset.csv: Demographics data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
+>Udacity_CUSTOMERS_Subset.csv: Demographics data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
+>Data_Dictionary.md: Detailed information file about the features in the provided datasets.
+>AZDIAS_Feature_Summary.csv: Summary of feature attributes for demographics data; 85 features (rows) x 4 columns
     
 ## Acknowledgments and Sources of Code and Data:
 
