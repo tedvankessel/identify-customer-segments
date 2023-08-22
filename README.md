@@ -37,6 +37,7 @@ The following datasets were provided by Udacity for use in this project and is a
 	https://github.com/wengsengh/Identify-Customer-Segments
 	https://github.com/WejdanCS/Identify-customer-segments
 	https://github.com/swang13/identify-customer-segments
+ 	https://github.com/jaycode/udacity-identify-customer-segments/blob/main/Identify_Customer_Segments.ipynb
 
 ### Installing
 The jupyter notebook file can be operated with the standard Jupyter Notebook software.
