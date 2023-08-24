@@ -53,7 +53,7 @@ As in all projects, it is recommended to set up an environment with the required
 	matplotlib=3.7.1=pypi_0
 	scikit-learn=1.3.0=py38h763eb3e_0
  
- ### NOTE: a **requirements.txt file** can be found in this Github that contains all the packages used in this project environment.
+ ### NOTE: an **environment.yml file** can be found in this Github that contains all the packages used in this project environment.
  
  ## License
 This project is licensed under the MIT License  License - see the LICENSE.md file for details
