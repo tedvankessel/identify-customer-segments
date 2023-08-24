@@ -1,5 +1,9 @@
 # Project-Identify Customer Segments
 
+## Important note: 
+
+>the datasets for this project are not public and so will not be uploaded with the project file
+
 ## Introduction 
 
 ### From the course documentation:
